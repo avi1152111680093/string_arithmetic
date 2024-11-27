@@ -1,4 +1,4 @@
-package main
+package string_arithmetic
 
 import (
 	"strconv"
